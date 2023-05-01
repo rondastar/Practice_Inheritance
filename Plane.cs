@@ -24,5 +24,5 @@ namespace Practice_Inheritance
         {
             return base.ToString() + $" - Number of Jets: {_numberOfJets}";
         }
-    }
-}
+    } // class
+} // namespace

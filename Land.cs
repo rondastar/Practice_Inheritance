@@ -25,5 +25,5 @@ namespace Practice_Inheritance
         {
             return base.ToString() + $" - Number of Wheels: {_wheels}";
         }
-    }
-}
+    } // class
+} // namespace

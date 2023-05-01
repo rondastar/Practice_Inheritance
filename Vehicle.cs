@@ -25,5 +25,5 @@ namespace Practice_Inheritance
         {
             return $"{this.GetType()} - Color: {Color}";
         }
-    }
-}
+    } // class
+} // namespace

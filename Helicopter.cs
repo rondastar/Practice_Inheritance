@@ -23,5 +23,5 @@ namespace Practice_Inheritance
         {
             return base.ToString() + $" - Number of Propellers: {_numberOfPropellers}";
         }
-    }
-}
+    } // class
+} // namespace

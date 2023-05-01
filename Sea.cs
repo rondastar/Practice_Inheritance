@@ -23,5 +23,5 @@ namespace Practice_Inheritance
         {
             return base.ToString() + $" - It is a {_type}";
         }
-    }
-}
+    } // class
+} // namespace

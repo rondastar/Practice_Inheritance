@@ -1,9 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel;
-
+// Ronda Rutherford
+// 4/20/2023
+// Practice - Inheritance
 namespace Practice_Inheritance
 {
-    
     internal class Program
     {
         //        Create a global List of Vehicle
@@ -31,6 +32,6 @@ namespace Practice_Inheritance
             {
                 Console.WriteLine(v);
             }
-        }
-    }
-}
+        } // Main
+    } // class
+} // namespace
